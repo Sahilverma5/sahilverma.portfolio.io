@@ -73,3 +73,33 @@
 ### Identified and assessed user needs through direct interactions and data analysis, formulating and implementing strategies to address those needs and ensure seamless service delivery.
 ### Critically evaluated data from multiple sources, ensuring the accuracy and quality of final analyses, and delivering high-impact recommendations that influenced key business decisions.
 ### Collaborated with customer service teams to develop strategies that enhance customer satisfaction and worked closely with development teams to demonstrate how meeting daily and weekly progress benchmarks contributed to overall team productivity and project success.
+
+# Projects
+## 1.	Bajaj Finance Limited Projects: 
+### a.	Employee 360 - Revoke; Retention; Pulse Automation; Integrated Pulse [Biggest Imapact]
+### b.	NGO: Corporate Social Responsibility [Bigger Impact]
+### c.	Intern 360: Every new employee working as an intern has to work through this process for performance. 
+### d.	Branch 360: Branch details accessibility over multiple branches
+### e.	Administrative Services: Cab Booking, MMT Integration, Event Booking (Domestic & International) [Bigger Impact]
+### f. Employee 360: Goal Setting, Mid-Year and Annual Appraisal [Biggest Impact]
+### g. Employee 360: Bell Curve - for performance measurement by top management of the Company. [Complex and High Impact]
+
+## 2.	Deliveready LLP:
+### a.	Butterflies App (Android & iOS): Free to application for people to find each other and date. [Complex and High Impact]
+### b.	Portaprep (Web Application): App and website to prepare for examination with token system and coin system to purchase the questions and give exams along with report download.
+### c.	Idowaz Home Care (Website PHP): Users can book and buy services from the app near their households. 
+### d.	Idowaz Cab Booking( Mobile native Apps): Users can book cab for travel and go places inter city or around their location. [Complex and High Impact]   
+
+## 3.	Promatics Technologies Private Limited Projects:
+### a.	Perfect Fit App (Android & iOS): Being used in the stores for sizes estimation for women. [High Impact]
+### b.	Copiloto App (Android & iOS): Free application for people to use, for location.
+### c.	Watch Tegi (Web Application): E commerce website to buy watches. [High Impact]
+### d.	MAC ( Meet and Chill Mobile Application native): Dating application for users. [Complex and High Impact]
+### e. KrishiKulture: E commerce website and application to buy plants and other equipment along with coin and reward system. [High Impact]
+
+## 4.	As a Freelancer: 
+### a.	Jupiter Vastu: Professional Website maintenance and enhancement, the client has its portfolio added and updated came us with request to enhance security of the platform and avoid cyber risk. Website is live with same name. 
+### b.	Jupiter Astro Vastu Website: Already live was a project for 6 months, currently working on enhancements, and will be live by end of month of July. [Complex and High Impact]
+### c.	RPH Buddy: A client from USA, got website created in 2018 and approached us for design enhancements and security enhancements of the website, where we helped him and completed his contract within 2 months of time. Website is live with the same name. [Bigger Impact]
+### d.	Jupiter Astro Vastu Application: Similar to Astro Vastu website where users and astrologers can view each other, discuss and work accordingly, have chat and video calls. [Complex and High Impact]
+### e.	Indra Cosmetics: Mobile application for ecommerce exclusive only for day-to-day customers. Also, the client came to us for digital marketing and social media marketing of Instagram which we gave to client with good results. [Bigger Impact]
